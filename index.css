@@ -2,7 +2,7 @@ html {
   background-color: black;
 }
 
-root {
+:root {
   --main-color: red;
 }
 
